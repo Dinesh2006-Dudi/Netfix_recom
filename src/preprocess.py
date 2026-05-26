@@ -10,3 +10,4 @@ df = df.drop_duplicates()
 df = df.fillna(0)
 
 print(df.head())
+print(df.info())
