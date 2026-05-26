@@ -25,7 +25,7 @@ if st.button(
         )
 
         st.success(
-            "Recommendations"
+            "Recommendations for " + movie
         )
 
         for m in movies:
