@@ -1,0 +1,60 @@
+user_id,movie,rating,genre
+1,Avatar,5,Sci-Fi
+1,Titanic,4,Romance
+1,Inception,5,Sci-Fi
+1,Interstellar,4,Sci-Fi
+1,Joker,3,Drama
+
+2,Avatar,4,Sci-Fi
+2,Avengers Endgame,5,Action
+2,Inception,5,Sci-Fi
+2,Batman Begins,4,Action
+2,Joker,4,Drama
+
+3,Titanic,5,Romance
+3,La La Land,4,Musical
+3,Interstellar,5,Sci-Fi
+3,Joker,3,Drama
+3,Avatar,4,Sci-Fi
+
+4,Avengers Endgame,5,Action
+4,Batman Begins,5,Action
+4,Inception,4,Sci-Fi
+4,Interstellar,4,Sci-Fi
+4,Joker,5,Drama
+
+5,La La Land,5,Musical
+5,Titanic,5,Romance
+5,Avatar,3,Sci-Fi
+5,Interstellar,5,Sci-Fi
+5,Joker,4,Drama
+
+6,Inception,5,Sci-Fi
+6,Batman Begins,4,Action
+6,Avengers Endgame,4,Action
+6,Interstellar,5,Sci-Fi
+6,Titanic,3,Romance
+
+7,Avatar,5,Sci-Fi
+7,La La Land,3,Musical
+7,Joker,5,Drama
+7,Inception,4,Sci-Fi
+7,Interstellar,5,Sci-Fi
+
+8,Batman Begins,5,Action
+8,Avengers Endgame,4,Action
+8,Titanic,4,Romance
+8,Joker,5,Drama
+8,Avatar,4,Sci-Fi
+
+9,Inception,5,Sci-Fi
+9,Interstellar,5,Sci-Fi
+9,Avatar,4,Sci-Fi
+9,La La Land,4,Musical
+9,Joker,4,Drama
+
+10,Titanic,5,Romance
+10,Avatar,5,Sci-Fi
+10,Batman Begins,4,Action
+10,Interstellar,5,Sci-Fi
+10,Avengers Endgame,5,Action
